@@ -15,6 +15,28 @@ Our neighborhoods names,latitudes and longitudes was obtained from the newyork.j
 - An important part of the study is to also look at affordability. For this purpose I found a dataset with average rents for Manhattan here https://
 www.rentcafe.com/average-rent-market-trends/us/ny/manhattan/
 
+### Analysis
+
+The analysis performed in this project includes:
+1. Exploratory data analysis
+2. Clustering of neighborhoods based on the number of Indian restaurants and rental prices
+3. Identification of neighborhoods with low Indian restaurant density and affordable rental prices
+
 ### Results and Discussion
 
 Our study aimed to identify the most affordable neighborhoods in Manhattan with limited Indian Restaurant options near the cultural center, the Empire State Building. After analyzing 34 neighborhoods in Manhattan, we found that West Village, Tudor City, and Hudson Yards are potential areas to consider. However, it's important to note that the low presence of Indian Restaurants in these neighborhoods could be due to various reasons such as a smaller Indian American population or zoning restrictions. This study serves as a preliminary research and further investigation is necessary to fully understand the situation.
+
+### Technical Details
+The project is implemented in Python and uses the following libraries:
+1. Pandas
+2. Numpy
+3. Matplotlib
+4. Folium (for visualizing geographical data)
+
+### Conclusion
+
+The Battle of the Neighborhoods project provides a comprehensive analysis of the best neighborhoods in Manhattan for opening an Indian restaurant by considering the interplay between Indian restaurant density, rental prices, and proximity to the cultural center. This information can be useful for entrepreneurs looking to open an Indian restaurant in Manhattan.
+
+### Usage
+
+To run the code, clone the repository and run the Jupyter Notebook file. Ensure that the required libraries are installed.
